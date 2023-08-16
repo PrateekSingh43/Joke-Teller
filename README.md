@@ -44,6 +44,8 @@ If you encounter any issues or bugs while using the project, please open an issu
 - Implement better error handling and messages for failed API requests.
 - Allow users to customize the API URL for more flexibility.
 - Enhance the design and user interface for a more engaging experience.
+- Add a "Share" button to share jokes on social media.
+- Add a "Save" button to save jokes for later.
 
 ## License
 
